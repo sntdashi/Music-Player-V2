@@ -25,7 +25,7 @@ const playerTrackArtist = document.getElementById('playerTrackArtist');
 const lyricsContainer = document.getElementById('lyricsContainer');
 
 const playerProgressBarContainer = document.getElementById('playerProgressBarContainer');
-const playerProgressBar = document.getElementById('playerProgressBar');
+const playerProgressBar = document.getElementById('playerProgressBar'); 
 const playerCurrentTime = document.getElementById('playerCurrentTime');
 const playerTotalDuration = document.getElementById('playerTotalDuration');
 
