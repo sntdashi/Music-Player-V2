@@ -201,52 +201,20 @@ let songs = [
         ]
     },
     {
-        id: 6,
-        title: "I Wanna Be Yours",
-        artist: "Arctic Monkeys",
-        album: "AM",
-        albumArtUrl: "https://i.ytimg.com/vi/fJLQCf4mFP0/hqdefault.jpg",
-        audioSrc: "audio/I Wanna Be Yours.mp3",
-        videoBgSrc: "videos/i_wanna_be_yours_bg.mp4",
+       id: 6,
+       title: "I Wanna Be Yours",
+       artist: "Arctic Monkeys",
+       album: "AM",
+       albumArtUrl: "https://i.ytimg.com/vi/fJLQCf4mFP0/hqdefault.jpg",
+       audioSrc: "audio/I Wanna Be Yours.mp3",
+       videoBgSrc: "videos/i_wanna_be_yours_bg.mp4",
         lyrics: [
-            { time: 1000, text: "I wanna be your vacuum cleaner" },
-            { time: 1000, text: "Breathing in your dust" },
-            { time: 1000, text: "I wanna be your Ford Cortina" },
-            { time: 1000, text: "I will never rust" },
-            { time: 1000, text: "If you like your coffee hot" },
-            { time: 1000, text: "Let me be your coffee pot" },
-            { time: 1000, text: "You call the shots, babe" },
-            { time: 1000, text: "I just wanna be yours" },
-            
-            { time: 1000, text: "Secrets I have held in my heart" },
-            { time: 1000, text: "Are harder to hide than I thought" },
-            { time: 1000, text: "Maybe I just wanna be yours" },
-            { time: 1000, text: "I wanna be yours, I wanna be yours" },
-            { time: 1000, text: "Wanna be yours, wanna be yours, wanna be yours" },
-
-            { time: 1000, text: "Let me be your 'leccy meter and I'll never run out" },
-            { time: 1000, text: "Let me be the portable heater that you'll get cold without" },
-            { time: 1000, text: "I wanna be your setting lotion (wanna be)" },
-            { time: 1000, text: "Hold your hair in deep devotion (how deep?)" },
-            { time: 1000, text: "At least as deep as the Pacific Ocean" },
-            { time: 1000, text: "I wanna be yours" },
-
-            { time: 1000, text: "Secrets I have held in my heart" },
-            { time: 1000, text: "Are harder to hide than I thought" },
-            { time: 1000, text: "Maybe I just wanna be yours" },
-            { time: 1000, text: "I wanna be yours, I wanna be yours" },
-            { time: 1000, text: "Wanna be yours, wanna be yours, wanna be yours" },
-            { time: 1000, text: "Wanna be yours, wanna be yours, wanna be yours" },
-            { time: 1000, text: "Wanna be yours, wanna be yours" },
-
-            { time: 1000, text: "I wanna be your vacuum cleaner (Wanna be yours)" },
-            { time: 1000, text: "Breathing in your dust (Wanna be yours)" },
-            { time: 1000, text: "I wanna be your Ford Cortina (Wanna be yours)" },
-            { time: 1000, text: "I will never rust (Wanna be yours)" },
-            { time: 1000, text: "I just wanna be yours (Wanna be yours)" },
-            { time: 1000, text: "I just wanna be yours (Wanna be yours)" },
-            { time: 1000, text: "I just wanna be yours (Wanna be yours)" }
-        ]
+      // { time: 1000, text: "I wanna be your vacuum cleaner" },
+        
+            { text: "Lyrics Not Founds",
+                textContent: "Bug/Maintenance" 
+            }  
+              ]
     },
     {
         id: 9,
