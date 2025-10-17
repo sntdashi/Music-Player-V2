@@ -100,7 +100,7 @@ let songs = [
         album: "Prism",
         albumArtUrl: "https://i.ytimg.com/vi/4NGVxU0qhZ8/maxresdefault.jpg",
         audioSrc: "audio/Katy Perry - Unconditionally.mp3",
-        videoBgSrc: "videos/unconditionally_bg.mp4", // Path video background khusus lagu ini
+        videoBgSrc: "videos/unconditionally_bg.mp4", // Path video background khusus lagu iniy
         // Lirik dengan timestamp dalam detik
         lyrics: [
             { time: 7.1, text: "Oh no, did I get too close?" },
