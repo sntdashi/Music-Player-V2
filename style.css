@@ -10,7 +10,7 @@ body {
     min-height: 100vh;
     overflow-x: hidden; /* Mencegah scroll horizontal */
     transition: background-color 0.5s ease-in-out; /* Transisi untuk background-color */
-    position: relative; /* Penting untuk posisi video background */
+    position: relative; /* Penting untuk posisi video yo background */
     z-index: 1; /* Pastikan konten utama di atas video */
 }
 
